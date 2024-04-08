@@ -4,7 +4,7 @@ package com.javarush;
  * Hello world!
  *
  */
-public class App 
+public class TestCalc
 {
     public static void main( String[] args )
     {
