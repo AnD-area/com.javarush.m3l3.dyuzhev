@@ -2,19 +2,19 @@ package com.javarush;
 
 public class Calculator {
 
-    public int add(int a, int b) {
-        return a + b;
+    public int add(int x, int y) {
+        return x + y;
     }
 
-    public int sub(int a, int b) {
-        return a - b;
+    public int sub(int x, int y) {
+        return x - y;
     }
 
-    public int mul(int a, int b) {
-        return a * b;
+    public int mul(int x, int y) {
+        return x * y;
     }
 
-    public int div(int a, int b) {
-        return a / b;
+    public int div(int x, int y) {
+        return x / y;
     }
 }
